@@ -978,5 +978,20 @@ E(AF)=\frac{1}{(0.02294)(1-0.05735)}=46
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Formula 
+\[
+E(BE)=\frac{1}{(0.877)(1-\frac{0.1}{0.877})}=1.2870
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The queues are longer in this model than Question 5.
+\end_layout
+
 \end_body
 \end_document

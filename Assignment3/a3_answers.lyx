@@ -632,7 +632,7 @@ For the 20 AF services, we need to calculate Effective Bandwidth, where:
 \begin_layout Standard
 \begin_inset Formula 
 \[
-\zeta=\frac{\log CLR}{B}=\frac{\log(10^{-7})}{1000}=-0.01612
+\zeta=\frac{\log_{e}CLR}{B}=\frac{\log_{e}(10^{-7})}{1000}=-0.01612
 \]
 
 \end_inset
@@ -706,7 +706,7 @@ What’s the Statistical gain achieved for VBR services?
 
 \begin_layout Standard
 For the variable bit rate, the statistical gain is 
-\begin_inset Formula $\frac{PCR}{EBW}=\frac{0.01}{0.001147}=8.715808$
+\begin_inset Formula $\frac{PCR}{EBW}=\frac{0.01}{0.001147}=8.7184$
 \end_inset
 
 .
